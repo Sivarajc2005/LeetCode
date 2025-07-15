@@ -26,5 +26,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Tree
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
