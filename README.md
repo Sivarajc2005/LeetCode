@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sivarajc2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Sivarajc2005/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Sivarajc2005/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Sivarajc2005/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
