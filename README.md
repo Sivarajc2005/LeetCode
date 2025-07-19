@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1135-customers-who-bought-all-products](https://github.com/Sivarajc2005/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
