@@ -39,16 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Sivarajc2005/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
