@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -40,18 +41,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0100-same-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
