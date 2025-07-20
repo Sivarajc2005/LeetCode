@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sivarajc2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sivarajc2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sivarajc2005/LeetCode/tree/master/0136-single-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Design
 |  |
 | ------- |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1135-customers-who-bought-all-products](https://github.com/Sivarajc2005/LeetCode/tree/master/1135-customers-who-bought-all-products) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
