@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Sivarajc2005/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Sivarajc2005/LeetCode/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/Sivarajc2005/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1135-customers-who-bought-all-products](https://github.com/Sivarajc2005/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sivarajc2005/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Sivarajc2005/LeetCode/tree/master/1153-product-sales-analysis-i) |
