@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sivarajc2005/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Sivarajc2005/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sivarajc2005/LeetCode/tree/master/0035-search-insert-position) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sivarajc2005/LeetCode/tree/master/0020-valid-parentheses) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
