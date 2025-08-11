@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/Sivarajc2005/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/Sivarajc2005/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sivarajc2005/LeetCode/tree/master/0035-search-insert-position) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
