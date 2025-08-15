@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sivarajc2005/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sivarajc2005/LeetCode/tree/master/0190-reverse-bits) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sivarajc2005/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sivarajc2005/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sivarajc2005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
