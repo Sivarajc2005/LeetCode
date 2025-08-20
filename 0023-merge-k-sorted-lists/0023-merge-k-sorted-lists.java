@@ -9,29 +9,31 @@
  * }
  */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
-        ListNode dummy = new ListNode(0);
+    public ListNode mergeKLists(ListNode[] lists) { //parameter is lists
 
-        for(ListNode temp : lists){  // taking the head 
-           ListNode che = dummy;
-           ListNode mover = temp;
+        ArrayList<ListNode> list = new ArrayList<>(); // we using the list
 
-            while(che != null && mover != null){   // hear over logic comes on 
-                if(che.next == null){   //help joing the ll
-                    che.next = mover; // is the mistake ?
-                    break; 
-                }
-                else if(che.next.val > mover.val){
-                    ListNode sperate = mover;
-                    mover = mover.next;  // this move the pointer
-                    sperate.next = che.next; //making the end connection 
-                    che.next = sperate;  // making the fromt connection
-                }
-                
-                che = che.next;  // ok we move pointer for every iteration 
+        for(ListNode temp : lists){
+            while(temp != null){
+                ListNode sp = temp; // we sperating the hands
+                temp = temp.next; // moving the pointer
+                sp.next = null; // cutting the hands 
+                list.add(sp);
             }
+        } 
+
+        Collections.sort(list , (a , b) -> Integer.compare(a.val , b.val)); //custome sorting help us 
+
+        ListNode dummy = new ListNode(0);
+        ListNode mov = dummy; //this the mover
+        for(ListNode temp : list){
+            // System.out.print(temp.val +" -> "); //see it printing the correct order that good 
+            
+            //now make them as chain 
+            mov.next = temp;
+            mov = mov.next;  
         }
 
-        return dummy.next;   //i hoper this would work ..
+        return dummy.next;
     }
 }
