@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Sivarajc2005/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Sivarajc2005/LeetCode/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/Sivarajc2005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Sivarajc2005/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Sivarajc2005/LeetCode/tree/master/0198-house-robber) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Sivarajc2005/LeetCode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Sivarajc2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sivarajc2005/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Sivarajc2005/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
