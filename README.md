@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sivarajc2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Sivarajc2005/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sivarajc2005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/Sivarajc2005/LeetCode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
