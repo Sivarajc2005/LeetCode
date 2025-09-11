@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sivarajc2005/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Sivarajc2005/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Sivarajc2005/LeetCode/tree/master/0403-frog-jump) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sivarajc2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sivarajc2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sivarajc2005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Sivarajc2005/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Sivarajc2005/LeetCode/tree/master/0403-frog-jump) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sivarajc2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Breadth-First Search
