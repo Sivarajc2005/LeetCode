@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2887-sort-vowels-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [2887-sort-vowels-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
