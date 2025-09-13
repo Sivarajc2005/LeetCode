@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sivarajc2005/LeetCode/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sivarajc2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarajc2005/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Sivarajc2005/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sivarajc2005/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Sivarajc2005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Sivarajc2005/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sivarajc2005/LeetCode/tree/master/0036-valid-sudoku) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sivarajc2005/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
