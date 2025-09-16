@@ -31,8 +31,9 @@ class Solution {
             int a = stack.pop();
             int b = stack.pop();
 
-            if(gcd(a,b) > 1 ){
-                stack.push(lcm(a,b));
+            int hcf = gcd(a,b);
+            if(hcf > 1 ){
+                stack.push(lcm(a,b,hcf));
                 
             }
             else{
@@ -57,7 +58,7 @@ class Solution {
         return gcd( b , a%b);
     }
 
-    static int lcm(int a , int b){
-        return ((a/gcd(a,b)) * b);
+    static int lcm(int a , int b , int hcf){
+        return (( a / hcf ) * b);
     }
 }
