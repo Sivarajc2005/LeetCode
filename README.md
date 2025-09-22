@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Sivarajc2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0842-card-flipping-game](https://github.com/Sivarajc2005/LeetCode/tree/master/0842-card-flipping-game) |
+| [0967-minimum-falling-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarajc2005/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Sivarajc2005/LeetCode/tree/master/0403-frog-jump) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sivarajc2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Breadth-First Search
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sivarajc2005/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
