@@ -1,33 +1,45 @@
 class Solution {
+    int[][] dp ;
     public int minFallingPathSum(int[][] matrix) {
         int n = matrix.length;
-        int dp[][] = new int[n][n];
-        for(int[] i: dp){
-            Arrays.fill(i, Integer.MIN_VALUE);
+        int nc = matrix[0].length;
+        dp = new int[n][nc];
+        for(int i = 0 ; i < n ;i++){
+            Arrays.fill(dp[i] , Integer.MAX_VALUE);
         }
+
         int ans = Integer.MAX_VALUE;
-        for(int i = n - 1; i >= 0; i--){
-            ans  = Math.min(ans, minTotal(matrix, n - 1, i, dp));
+        for(int i = 0 ; i < nc ;i++){
+            int res = rec( 0 , i , matrix);
+            ans = Math.min(ans , res);
         }
         return ans;
     }
 
-    private int minTotal(int[][] matrix, int row, int col, int[][] dp){
-        if(row == 0){
-            return matrix[row][col];
-        }
-        if(dp[row][col] != Integer.MIN_VALUE){
+    int rec(int row, int col , int[][] arr){
+        
+
+        if(dp[row][col] != Integer.MAX_VALUE){
             return dp[row][col];
         }
-        int same = minTotal(matrix, row - 1, col, dp);
-        int left = Integer.MAX_VALUE;
-        int right = Integer.MAX_VALUE;
-        if(col > 0){
-            left =  minTotal(matrix, row - 1, col - 1, dp);
+
+        if(row == arr.length-1){
+            return arr[row][col];
         }
-        if(col < matrix.length - 1){
-            right = minTotal(matrix, row - 1, col + 1, dp);
-        }
-        return dp[row][col] = matrix[row][col] + Math.min(same, Math.min(left, right));
+
+        int down = (row + 1 < arr.length) ? rec(row + 1, col, arr) : 1000000;
+
+        int right = 1000000;
+        int left =  1000000;
+
+        if(col > 0)
+            left  = rec( row + 1 , col -1 , arr);   //left going
+
+        if(col < arr[0].length-1)
+            right = rec(row + 1 , col +1 , arr);   // right going 
+
+        int chose = Math.min(left , Math.min( down , right ) );
+
+        return dp[row][col]  =  arr[row][col] + chose ;
     }
 }
