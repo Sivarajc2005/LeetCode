@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sivarajc2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Sivarajc2005/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sivarajc2005/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sivarajc2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sivarajc2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Divide and Conquer
 |  |
