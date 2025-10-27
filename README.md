@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarajc2005/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sivarajc2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sivarajc2005/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sivarajc2005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sivarajc2005/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sivarajc2005/LeetCode/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sivarajc2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarajc2005/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sivarajc2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Sivarajc2005/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Sivarajc2005/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sivarajc2005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sivarajc2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## String Matching
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sivarajc2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Combinatorics
 |  |
 | ------- |
