@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sivarajc2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Sivarajc2005/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sivarajc2005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sivarajc2005/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Sivarajc2005/LeetCode/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sivarajc2005/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Sivarajc2005/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sivarajc2005/LeetCode/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sivarajc2005/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarajc2005/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
