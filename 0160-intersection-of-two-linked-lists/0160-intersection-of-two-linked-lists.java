@@ -11,40 +11,38 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode tempA = headA;
-        ListNode tempB = headB;
-
-        int one = 0;
-        int two = 0;
-
-        while( tempA != null) {
-            one++;
-            tempA = tempA.next;
+        int lenl1 = 0;
+        int lenl2 = 0;
+        ListNode l1 = headA;
+        ListNode l2 = headB;
+        while(l1 != null) {
+            l1 = l1.next;
+            lenl1++;
         }
-
-        while(tempB != null) {
-            two++;
-            tempB = tempB.next;
+        while(l2 != null) {
+            l2 = l2.next;
+            lenl2++;
         }
-
-        int diff = Math.abs(one - two);
-
-        ListNode large = one > two ? headA : headB;
-        ListNode small = one > two ? headB : headA;
-
-        for(int i = 0; i < diff; i++) {
-            // System.out.print(large.val);
-            large = large.next;
-        }
-
-        while(large != null && small != null) {
-            if(large == small) {
-                // System.out.print("point : "+ large.val + " then: "+ small.val);
-                return large;
+        int tDistance = Math.abs(lenl1 - lenl2);
+        l1 = headA;
+        l2 = headB;
+        if (lenl1 < lenl2) {
+            for(int i = 0; i < tDistance; i++) {
+                l2 = l2.next;
             }
-            large = large.next;
-            small = small.next;
+        } else if (lenl1 > lenl2) {
+            for(int i = 0; i < tDistance; i++) {
+                l1 = l1.next;
+            }
+        }
+        while(l1 != null && l2 != null) {
+            if (l1 == l2) {
+                return l1;
+            }
+            l1 = l1.next;
+            l2 = l2.next;
         }
         return null;
     }
+
 }
