@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sivarajc2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sivarajc2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Sivarajc2005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sivarajc2005/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sivarajc2005/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0842-card-flipping-game](https://github.com/Sivarajc2005/LeetCode/tree/master/0842-card-flipping-game) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
