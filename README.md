@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-card-flipping-game](https://github.com/Sivarajc2005/LeetCode/tree/master/0842-card-flipping-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarajc2005/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sivarajc2005/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sivarajc2005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
