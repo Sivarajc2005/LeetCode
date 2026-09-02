@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Sivarajc2005/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sivarajc2005/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Sivarajc2005/LeetCode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Sivarajc2005/LeetCode/tree/master/0403-frog-jump) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sivarajc2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sivarajc2005/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sivarajc2005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Sivarajc2005/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sivarajc2005/LeetCode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Sivarajc2005/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sivarajc2005/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Sivarajc2005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0796-rotate-string) |
