@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0842-card-flipping-game](https://github.com/Sivarajc2005/LeetCode/tree/master/0842-card-flipping-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sivarajc2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarajc2005/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sivarajc2005/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sivarajc2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sivarajc2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/Sivarajc2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sivarajc2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sivarajc2005/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Merge Sort
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sivarajc2005/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sivarajc2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sivarajc2005/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Doubly-Linked List
 |  |
