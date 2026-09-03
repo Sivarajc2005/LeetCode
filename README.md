@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sivarajc2005/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sivarajc2005/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Sivarajc2005/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sivarajc2005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sivarajc2005/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/Sivarajc2005/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sivarajc2005/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Sivarajc2005/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sivarajc2005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0842-card-flipping-game](https://github.com/Sivarajc2005/LeetCode/tree/master/0842-card-flipping-game) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Sivarajc2005/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sivarajc2005/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sivarajc2005/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Design
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sivarajc2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/Sivarajc2005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Sivarajc2005/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
