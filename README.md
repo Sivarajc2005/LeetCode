@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
