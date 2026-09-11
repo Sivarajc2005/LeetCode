@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sivarajc2005/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Sivarajc2005/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Sivarajc2005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0796-rotate-string) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sivarajc2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Sivarajc2005/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Sivarajc2005/LeetCode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Sivarajc2005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sivarajc2005/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sivarajc2005/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sivarajc2005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sivarajc2005/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sivarajc2005/LeetCode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sivarajc2005/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
