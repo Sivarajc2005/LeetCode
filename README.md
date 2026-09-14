@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Sivarajc2005/LeetCode/tree/master/0403-frog-jump) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sivarajc2005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Sivarajc2005/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sivarajc2005/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sivarajc2005/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Breadth-First Search
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
@@ -441,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Sivarajc2005/LeetCode/tree/master/0933-number-of-recent-calls) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
