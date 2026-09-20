@@ -18,7 +18,7 @@ class Solution {
         if(root == null) {
             return null;
         }
-        
+
         if(root.val == key) {
             return arrange(root);
         }
@@ -42,8 +42,11 @@ class Solution {
             // return parent;
         }
         
-        rec(root.left, key);
-        rec(root.right, key);
+        if(root.val > key) {
+            rec(root.left, key);
+        } else {
+            rec(root.right, key);
+        }
     }
 
     public TreeNode arrange(TreeNode root) {
