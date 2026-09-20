@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/Sivarajc2005/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/Sivarajc2005/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sivarajc2005/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sivarajc2005/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sivarajc2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sivarajc2005/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
