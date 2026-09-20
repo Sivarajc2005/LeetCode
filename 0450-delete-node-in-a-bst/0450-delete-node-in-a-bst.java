@@ -15,61 +15,71 @@
  */
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        if(root == null){
-            return root;
+        if(root == null) {
+            return null;
         }
-        if(root.val == key){
-            return helper(root);
-        }
-        TreeNode dummy = root;
-        while(root != null){
-            if(root.val > key){
-                if(root.left != null && root.left.val == key){
-                    root.left = helper(root.left);
-                    break;
-                }
-                else{
-                    root = root.left;
-                }
-            }
-            else{
-                if(root.right != null && root.right.val == key){
-                    root.right = helper(root.right);
-                    break;
-                }
-                else{
-                    root = root.right;
-                }
-            }
-            
+        
+        if(root.val == key) {
+            return arrange(root);
         }
 
-        return dummy;
+        rec(root, key);
+
+        return root;
 
     }
 
-
-    static TreeNode helper(TreeNode root){
-        if(root.left == null){
-            return root.right;
-        }
-        else if(root.right == null){
-            return root.left;
+    public void rec(TreeNode root, int key) {
+        if(root == null) {
+            return;
         }
 
-        TreeNode tempRight = root.right;
-        TreeNode attach = extreem(root.left);
-        attach.right=tempRight;
-
-        return root.left;
-
+        if(root.left != null && root.left.val == key) {
+            root.left = arrange(root.left);
+            // return parent;
+        } else if( root.right != null && root.right.val == key) {
+            root.right = arrange(root.right);
+            // return parent;
+        }
+        
+        rec(root.left, key);
+        rec(root.right, key);
     }
 
-
-    static TreeNode extreem(TreeNode root){
-        if(root.right == null){
+    public TreeNode arrange(TreeNode root) {
+        if(root.left == null && root.right == null) {
+            // handle leaf node
+            return null;
+        } if(root.left == null) {
+            root = root.right;
+            return root;
+        } else if(root.right == null) {
+            root = root.left;
             return root;
         }
-        return extreem(root.right);
+
+        // save the del root left
+        TreeNode saveFisLeft = root.left;
+
+        // save the replacement's left NOTE: it may be null no issues on it.
+        TreeNode saveLasLeft = root.right.left;
+
+        // replace the replacement's left with del left
+        root.right.left = saveFisLeft;
+
+        // move to the right of the left
+        TreeNode lastRig = lastRig(saveFisLeft);
+
+        // adding the replacement's left the most right of the left 
+        lastRig.right = saveLasLeft;
+
+        return root.right;
+    }
+
+    public TreeNode lastRig(TreeNode root) {
+        if(root.right == null) {
+            return root;
+        }
+        return lastRig(root.right);
     }
 }
