@@ -52,6 +52,10 @@ class Solution {
             // red x
             x /= 10;
 
+            if(bef < aft) {
+                return false;
+            }
+
             isFirst = false;
         }
 
