@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sivarajc2005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Sivarajc2005/LeetCode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Sivarajc2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/Sivarajc2005/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sivarajc2005/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sivarajc2005/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Sivarajc2005/LeetCode/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/Sivarajc2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Sivarajc2005/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivarajc2005/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/Sivarajc2005/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -501,9 +503,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sivarajc2005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Sivarajc2005/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sivarajc2005/LeetCode/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sivarajc2005/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
