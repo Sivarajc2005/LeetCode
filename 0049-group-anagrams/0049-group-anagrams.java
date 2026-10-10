@@ -1,34 +1,32 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap <String , List<String>> map = new HashMap<>();
-        int n = strs.length;
-        for(int i = 0 ; i < n ; i++){
-            String str = sortString(strs[i]);
+        List<List<String>> sol = new ArrayList<>();
+        HashMap<String, List<String>> map = new HashMap<>();
 
-            if(map.containsKey(str)){
-                List<String> temlist = map.get(str);
-                temlist.add(strs[i]);
-                map.put(str , temlist);
-            }
-            else{
-                List<String> templist = new ArrayList<>();
-                templist.add(strs[i]);
-                map.put(str , templist );
-            }
+        for(String str : strs) {
+            // sort the string 
+            String sortStr = sortString(str);
+            List<String> data = map.getOrDefault(sortStr, new ArrayList<>());
+            data.add(str);
+            map.put(sortStr, data);
         }
 
-        List<List<String>> list = new ArrayList<>();
-
-        for(String key : map.keySet()){
-            list.add(map.get(key));
+        for(String str : map.keySet()) {
+            sol.add(map.get(str));
         }
 
-        return list;
+        return sol;
     }
 
-    static String sortString(String str){
-        char[] carr =str.toCharArray();
-        Arrays.sort(carr);
-        return String.valueOf(carr);
+    public String sortString(String str) {
+        int n = str.length();
+        char[] cha = new char[n];
+        cha = str.toCharArray();
+        Arrays.sort(cha);
+        StringBuilder sb = new StringBuilder();
+        for(char ch: cha) {
+            sb.append(ch);
+        }
+        return sb.toString();
     }
 }
